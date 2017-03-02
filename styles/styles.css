@@ -5,4 +5,36 @@
 #map {
   height: 600px;
   margin-top: 20px;
+  border: solid black 2px;
+}
+
+html, body {
+  height: 100%;
+  margin: 0;
+  padding: 0;
+}
+
+
+.blue {
+  /* Bullet color */
+  color: blue;
+  font-size: 1.4em;
+}
+
+.green {
+  /* Bullet color */
+  color: green;
+  font-size: 1.4em;
+}
+
+.red {
+  /* Bullet color */
+  color: red;
+  font-size: 1.4em;
+}
+
+ul li span {
+  /* Text color */
+  color: black;
+  font-size: 15px;
 }
